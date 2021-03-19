@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-07T16:05:37 UTC" name="Default suite" finished-at="2021-02-07T16:06:10 UTC" duration-ms="33341">
+    <groups>
+    </groups>
+    <test started-at="2021-02-07T16:05:37 UTC" name="Default test" finished-at="2021-02-07T16:06:10 UTC" duration-ms="33341">
+      <class name="com.SpiceJetTest.RoundTrip">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.SpiceJetTest.RoundTrip@20d28811]" started-at="2021-02-07T16:05:37 UTC" name="init" finished-at="2021-02-07T16:05:56 UTC" duration-ms="18961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="verifyLoginTest01([Ljava.lang.String;)[pri:0, instance:com.SpiceJetTest.RoundTrip@20d28811]" started-at="2021-02-07T16:05:57 UTC" name="verifyLoginTest01" data-provider="testData" finished-at="2021-02-07T16:06:10 UTC" duration-ms="13297" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@7c853486]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTest01 -->
+      </class> <!-- com.SpiceJetTest.RoundTrip -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
